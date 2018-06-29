@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052667506496",
+    "firebase_url": "https://foodish-74166.firebaseio.com",
+    "project_id": "foodish-74166",
+    "storage_bucket": "foodish-74166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052667506496:android:b27343a4f4ae490b",
+        "android_client_info": {
+          "package_name": "app.my.foodish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052667506496-8ra7jrdi3eru420vgpf6jlc26ugd5ooj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.my.foodish",
+            "certificate_hash": "5f02c0655f97bf6246cf28dc1050d695a1199937"
+          }
+        },
+        {
+          "client_id": "1052667506496-8lliaovjin0162eq7t01f5h8j8bc87l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6tOv0W78OLzHzDnr46FnvIKVQD6yfUH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052667506496-8lliaovjin0162eq7t01f5h8j8bc87l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

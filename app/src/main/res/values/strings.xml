@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">foodish</string>
+    <color name="bg">#9DC47F</color>
+    <color name="white">#fff</color>
+    <string name="slogan">Restaurants At Your Door Step</string>
+
 </resources>
